@@ -1,137 +1,3 @@
-
-/* line 5 : /Users/Morgan/Desktop/development/javascript/react/react-playground/src/styles/style.styl */
-
-/* line 1 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/grunt-contrib-stylus/node_modules/stylus/lib/functions/index.styl */
-
-/* line 287 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/grunt-contrib-stylus/node_modules/stylus/lib/functions/index.styl */
-
-/* line 6 : /Users/Morgan/Desktop/development/javascript/react/react-playground/src/styles/settings.styl */
-
-/* line 174 : /Users/Morgan/Desktop/development/javascript/react/react-playground/src/styles/settings.styl */
-
-/* line 81 : /Users/Morgan/Desktop/development/javascript/react/react-playground/src/styles/generic/index.styl */
-
-/* line 17 : /Users/Morgan/Desktop/development/javascript/react/react-playground/src/styles/generic/index.styl */
-
-/* line 42 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/axis/index.styl */
-
-/* line 42 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/axis/index.styl */
-
-/* line 42 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/axis/rename.styl */
-
-/* line 4 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/axis/rename.styl */
-
-/* line 89 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/axis/settings.styl */
-
-/* line 65 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/axis/settings.styl */
-
-/* line 52 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/reset.styl */
-
-/* line 359 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/reset.styl */
-
-/* line 9 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
-
-/* line 442 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
-
-/* line 15 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vendor.styl */
-
-/* line 87 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vendor.styl */
-
-/* line 5 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/utilities.styl */
-
-/* line 347 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/utilities.styl */
-
-/* line 8 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/gradients.styl */
-
-/* line 172 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/gradients.styl */
-
-/* line 11 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/interaction.styl */
-
-/* line 100 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/interaction.styl */
-
-/* line 5 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/positions.styl */
-
-/* line 102 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/positions.styl */
-
-/* line 11 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/ui.styl */
-
-/* line 252 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/ui.styl */
-
-/* line 12 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/buttons.styl */
-
-/* line 178 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/buttons.styl */
-
-/* line 18 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/forms.styl */
-
-/* line 227 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/forms.styl */
-
-/* line 9 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/axis/tables.styl */
-
-/* line 89 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/axis/tables.styl */
-
-/* line 89 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/flex.styl */
-
-/* line 173 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/flex.styl */
-
-/* line 1 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/breakpoint.styl */
-
-/* line 11 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/breakpoint.styl */
-
-/* line 2 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/rupture-adapter/rupture/index.styl */
-
-/* line 2 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/rupture-adapter/rupture/index.styl */
-
-/* line 70 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/rupture-adapter/rupture/settings.styl */
-
-/* line 7 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/rupture-adapter/rupture/settings.styl */
-
-/* line 70 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/rupture-adapter/rupture/rupture.styl */
-
-/* line 183 : /Users/Morgan/Desktop/development/javascript/react/react-playground/src/styles/generic/index.styl */
-
-/* line 183 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/rupture-adapter/rupture/rupture.styl */
-
-/* line 183 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/jeet-adapter/jeet/index.styl */
-
-/* line 17 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/jeet-adapter/jeet/index.styl */
-
-/* line 82 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/jeet-adapter/jeet/settings.styl */
-
-/* line 11 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/jeet-adapter/jeet/settings.styl */
-
-/* line 1 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/jeet-adapter/node_modules/jeet/stylus/jeet/_functions.styl */
-
-/* line 31 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/jeet-adapter/node_modules/jeet/stylus/jeet/_functions.styl */
-
-/* line 2 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/jeet-adapter/node_modules/jeet/stylus/jeet/_grid.styl */
-
-/* line 168 : /Users/Morgan/Desktop/development/javascript/react/react-playground/src/styles/generic/index.styl */
-
-/* line 168 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/jeet-adapter/node_modules/jeet/stylus/jeet/_grid.styl */
-
-/* line 1 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/index.styl */
-
-/* line 4 : /Users/Morgan/Desktop/development/javascript/react/react-playground/src/styles/generic/index.styl */
-
-/* line 4 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/index.styl */
-
-/* line 2 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/spritesmith-stylus/spritesmith/index.styl */
-
-/* line 2 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/spritesmith-stylus/spritesmith/index.styl */
-
-/* line 173 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/spritesmith-stylus/spritesmith/settings.styl */
-
-/* line 2 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/spritesmith-stylus/spritesmith/settings.styl */
-
-/* line 38 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/spritesmith-stylus/spritesmith/spritesmith.styl */
-
-/* line 38 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/spritesmith-stylus/spritesmith/spritesmith.styl */
-
-/* line 38 : /Users/Morgan/Desktop/development/javascript/react/react-playground/src/styles/components/sprite_map.styl */
-
-/* line 3 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/spritesmith-stylus/spritesmith/spritesmith.styl */
-
-/* line 200 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 article,
 aside,
 details,
@@ -146,8 +12,6 @@ section,
 summary {
   display: block;
 }
-
-/* line 214 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 audio,
 canvas,
 video {
@@ -155,19 +19,13 @@ video {
   *display: inline;
   *zoom: 1;
 }
-
-/* line 222 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 audio:not([controls]) {
   display: none;
   height: 0;
 }
-
-/* line 225 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 [hidden] {
   display: none;
 }
-
-/* line 228 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 html {
   font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
@@ -175,120 +33,84 @@ html {
   font-size: 100%;
   line-height: 1.5em;
 }
-
-/* line 236 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 button,
 input,
 select,
 textarea {
   font-family: sans-serif;
 }
-
-/* line 242 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 body {
   margin: 0;
 }
-
-/* line 245 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 a:focus {
   outline: thin dotted;
 }
-
-/* line 248 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 a:active,
 a:hover {
   outline: 0;
 }
-
-/* line 252 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 p,
 pre {
   margin: 1.5em 0;
 }
-
-/* line 256 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 blockquote {
   margin: 1.5em 40px;
 }
-
-/* line 259 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 h1 {
   font-size: 2em;
   line-height: 1.5em;
   margin-top: 0.75em;
   margin-bottom: 0.75em;
 }
-
-/* line 264 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 h2 {
   font-size: 1.5em;
   line-height: 2em;
   margin-top: 1em;
   margin-bottom: 1em;
 }
-
-/* line 269 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 h3 {
   font-size: 1.17em;
   line-height: 1.282051282051282em;
   margin-top: 1.282051282051282em;
   margin-bottom: 1.282051282051282em;
 }
-
-/* line 274 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 h4 {
   font-size: 1em;
   line-height: 1.5em;
   margin-top: 1.5em;
   margin-bottom: 1.5em;
 }
-
-/* line 279 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 h5 {
   font-size: 0.83em;
   line-height: 1.807228915662651em;
   margin-top: 1.807228915662651em;
   margin-bottom: 1.807228915662651em;
 }
-
-/* line 284 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 h6 {
   font-size: 0.67em;
   line-height: 2.238805970149254em;
   margin-top: 2.238805970149254em;
   margin-bottom: 2.238805970149254em;
 }
-
-/* line 289 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 abbr[title] {
   border-bottom: 1px dotted;
 }
-
-/* line 292 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 b,
 strong {
   font-weight: bold;
 }
-
-/* line 296 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 dfn {
   font-style: italic;
 }
-
-/* line 299 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 hr {
   -moz-box-sizing: content-box;
   box-sizing: content-box;
   height: 0;
 }
-
-/* line 304 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 mark {
   background: #ff0;
   color: #000;
 }
-
-/* line 308 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 code,
 kbd,
 pre,
@@ -298,23 +120,15 @@ samp {
   font-size: 1em;
   line-height: 1.5em;
 }
-
-/* line 317 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 pre {
   white-space: pre-wrap;
 }
-
-/* line 320 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 q {
   quotes: "\201C" "\201D" "\2018" "\2019";
 }
-
-/* line 323 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 small {
   font-size: 80%;
 }
-
-/* line 326 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 sub,
 sup {
   font-size: 75%;
@@ -322,18 +136,12 @@ sup {
   position: relative;
   vertical-align: baseline;
 }
-
-/* line 333 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 sup {
   top: -0.5em;
 }
-
-/* line 336 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 sub {
   bottom: -0.25em;
 }
-
-/* line 339 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 dl,
 menu,
 ol,
@@ -341,48 +149,30 @@ ul {
   margin: 1.5em 0;
   padding: 0 0 0 40px;
 }
-
-/* line 346 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 dl {
   padding: 0;
 }
-
-/* line 349 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 dd {
   margin: 0 0 0 40px;
 }
-
-/* line 353 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
-
-/* line 354 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 nav ul,
 nav ol {
   list-style: none;
   list-style-image: none;
 }
-
-/* line 359 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 img {
   border: 0;
   -ms-interpolation-mode: bicubic;
 }
-
-/* line 364 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 svg:not(:root) {
   overflow: hidden;
 }
-
-/* line 367 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 figure {
   margin: 0;
 }
-
-/* line 371 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 form {
   margin: 0;
 }
-
-/* line 374 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 fieldset {
   border-color: #c0c0c0;
   margin: 0 2px;
@@ -399,15 +189,11 @@ fieldset {
   border-right-width: 0.0625em;
   padding-right: 1.4375em;
 }
-
-/* line 382 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 legend {
   border: 0;
   padding: 0;
   *margin-left: -7px;
 }
-
-/* line 388 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 button,
 input,
 select,
@@ -418,20 +204,14 @@ textarea {
   vertical-align: baseline;
   *vertical-align: middle;
 }
-
-/* line 399 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 button,
 input {
   line-height: normal;
 }
-
-/* line 403 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 button,
 select {
   text-transform: none;
 }
-
-/* line 407 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 button,
 html input[type="button"],
 input[type="reset"],
@@ -440,14 +220,10 @@ input[type="submit"] {
   cursor: pointer;
   *overflow: visible;
 }
-
-/* line 413 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 button[disabled],
 html input[disabled] {
   cursor: default;
 }
-
-/* line 416 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 input[type="checkbox"],
 input[type="radio"] {
   box-sizing: border-box;
@@ -455,47 +231,27 @@ input[type="radio"] {
   *height: 13px;
   *width: 13px;
 }
-
-/* line 423 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 input[type="search"] {
   -webkit-appearance: textfield;
   box-sizing: content-box;
 }
-
-/* line 427 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 input[type="search"]::-webkit-search-cancel-button,
 input[type="search"]::-webkit-search-decoration {
   -webkit-appearance: none;
 }
-
-/* line 430 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 button::-moz-focus-inner,
 input::-moz-focus-inner {
   border: 0;
   padding: 0;
 }
-
-/* line 435 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 textarea {
   overflow: auto;
   vertical-align: top;
 }
-
-/* line 439 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/vertical-rhythm.styl */
 table {
   border-collapse: collapse;
   border-spacing: 0;
 }
-
-/* line 48 : /Users/Morgan/Desktop/development/javascript/react/react-playground/src/styles/components/sprite_map.styl */
-
-/* line 3 : /Users/Morgan/Desktop/development/javascript/react/react-playground/src/styles/base/index.styl */
-
-/* line 3 : /Users/Morgan/Desktop/development/javascript/react/react-playground/src/styles/base/index.styl */
-
-/* line 89 : /Users/Morgan/Desktop/development/javascript/react/react-playground/src/styles/base/typography.styl */
-
-/* line 95 : /Users/Morgan/Desktop/development/javascript/react/react-playground/src/styles/base/typography.styl */
 /*
 TYPEPLATE
 URL ........... http://typeplate.com
@@ -515,29 +271,15 @@ LICENSE URL ... https://github.com/typeplate/bower/blob/master/license.txt
   src: local('Georgia');
   unicode-range: U270 C;
 }
-
-/* line 295 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
-
-/* line 325 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
-
-/* line 368 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
 body {
   word-wrap: break-word;
 }
-
-/* line 371 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
 pre code {
   word-wrap: normal;
 }
-
-/* line 374 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
-
-/* line 476 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
 html {
   font: normal 112.5%/1.65 Georgia, Cambria, "Times New Roman", Times, serif;
 }
-
-/* line 482 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
 body {
   -webkit-hyphens: auto;
   -moz-hyphens: auto;
@@ -546,13 +288,9 @@ body {
   hyphens: auto;
   color: #444;
 }
-
-/* line 492 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
 small {
   font-size: 65%;
 }
-
-/* line 515 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
 h1,
 h2,
 h3,
@@ -563,32 +301,24 @@ h6 {
   line-height: 1;
   margin-top: 0;
 }
-
-/* line 537 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
 .tera {
   font-size: 117px;
   font-size: 6.5rem;
   margin-bottom: 4.569230769230772px;
   margin-bottom: 4.569230769230772px;
 }
-
-/* line 537 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
 .giga {
   font-size: 90px;
   font-size: 5rem;
   margin-bottom: 5.94px;
   margin-bottom: 5.94px;
 }
-
-/* line 537 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
 .mega {
   font-size: 72px;
   font-size: 4rem;
   margin-bottom: 7.425px;
   margin-bottom: 7.425px;
 }
-
-/* line 537 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
 .alpha,
 h1 {
   font-size: 60px;
@@ -596,8 +326,6 @@ h1 {
   margin-bottom: 8.91px;
   margin-bottom: 8.91px;
 }
-
-/* line 537 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
 .beta,
 h2 {
   font-size: 48px;
@@ -605,8 +333,6 @@ h2 {
   margin-bottom: 11.137500000000001px;
   margin-bottom: 11.137500000000001px;
 }
-
-/* line 537 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
 .gamma,
 h3 {
   font-size: 36px;
@@ -614,8 +340,6 @@ h3 {
   margin-bottom: 14.85px;
   margin-bottom: 14.85px;
 }
-
-/* line 537 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
 .delta,
 h4 {
   font-size: 24px;
@@ -623,8 +347,6 @@ h4 {
   margin-bottom: 22.275000000000002px;
   margin-bottom: 22.275000000000002px;
 }
-
-/* line 537 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
 .epsilon,
 h5 {
   font-size: 21px;
@@ -632,8 +354,6 @@ h5 {
   margin-bottom: 25.457142857142852px;
   margin-bottom: 25.457142857142852px;
 }
-
-/* line 537 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
 .zeta,
 h6 {
   font-size: 18px;
@@ -641,31 +361,13 @@ h6 {
   margin-bottom: 29.7px;
   margin-bottom: 29.7px;
 }
-
-/* line 541 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
-
-/* line 544 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
-
-/* line 547 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
-
-/* line 550 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
-
-/* line 553 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
-
-/* line 556 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
-
-/* line 563 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
 p {
   margin: auto auto 1.5em;
 }
-
-/* line 567 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
 p + p {
   text-indent: 1.5em;
   margin-top: -1.5em;
 }
-
-/* line 577 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
 abbr,
 acronym,
 blockquote,
@@ -685,38 +387,26 @@ xmp {
   -o-hyphens: none;
   hyphens: none;
 }
-
-/* line 596 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
 pre code {
   white-space: -moz-pre-wrap;
   white-space: pre-wrap;
 }
-
-/* line 600 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
 pre {
   white-space: pre;
 }
-
-/* line 603 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
 code {
   white-space: pre;
   font-family: 'Bitstream Vera Sans Mono', Consolas, Courier, monospace;
 }
-
-/* line 618 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
 abbr {
   font-variant: small-caps;
   font-weight: 600;
   text-transform: lowercase;
   color: #808080;
 }
-
-/* line 620 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
 abbr[title]:hover {
   cursor: help;
 }
-
-/* line 627 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
 h1,
 h2,
 h3,
@@ -725,16 +415,10 @@ h5,
 h6 {
   color: #222;
 }
-
-/* line 641 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
 p + .drop-cap {
   text-indent: 0;
   margin-top: 0;
 }
-
-/* line 645 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
-
-/* line 396 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
 .drop-cap:first-letter {
   float: left;
   margin: 0.25em;
@@ -746,76 +430,42 @@ p + .drop-cap {
   background: transparent;
   color: inherit;
 }
-
-/* line 662 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
-
-/* line 432 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
 .lining dt,
 .lining dd {
   display: inline;
   margin: 0;
 }
-
-/* line 436 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
-
-/* line 438 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
-
-/* line 439 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
 .lining dt + dt:before,
 .lining dd + dt:before {
   content: "\A";
   white-space: pre;
 }
-
-/* line 442 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
-
-/* line 443 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
-
-/* line 444 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
 .lining dd + dd:before {
   content: ", ";
 }
-
-/* line 446 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
 .lining dd:before {
   content: ": ";
   margin-left: -0.2rem;
 }
-
-/* line 676 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
-
-/* line 451 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
 .dictionary-style dt {
   display: inline;
   counter-reset: definitions;
 }
-
-/* line 454 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
-
-/* line 455 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
 .dictionary-style dt + dt:before {
   content: ", ";
   margin-left: -0.2rem;
 }
-
-/* line 458 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
 .dictionary-style dd {
   display: block;
   counter-increment: definitions;
 }
-
-/* line 461 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
 .dictionary-style dd:before {
   content: counter(definitions, decimal) ". ";
 }
-
-/* line 721 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
 .pull-quote {
   position: relative;
   padding: 1em;
 }
-
-/* line 343 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
 .pull-quote:before,
 .pull-quote:after {
   height: 1em;
@@ -825,28 +475,16 @@ p + .drop-cap {
   font-size: 4em;
   color: #dc976e;
 }
-
-/* line 350 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
 .pull-quote:before {
   content: '“';
   top: 0;
   left: 0;
 }
-
-/* line 354 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
 .pull-quote:after {
   content: '”';
   bottom: 0;
   right: 0;
 }
-
-/* line 26 : /Users/Morgan/Desktop/development/javascript/react/react-playground/src/styles/base/typography.styl */
-
-/* line 758 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/typeplate-stylus/typeplate/typeplate.styl */
-
-/* line 199 : /Users/Morgan/Desktop/development/javascript/react/react-playground/src/styles/base/forms.styl */
-
-/* line 199 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/forms.styl */
 input[type='email'],
 input[type='number'],
 input[type='password'],
@@ -876,8 +514,6 @@ textarea {
   width: 250px;
   text-shadow: 0 0 1px rgba(255,255,255,0.1);
 }
-
-/* line 19 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/forms.styl */
 input[type='email']:focus,
 input[type='number']:focus,
 input[type='password']:focus,
@@ -897,8 +533,6 @@ textarea:focus {
   border: 1px solid #70c7e0;
   outline: none !important;
 }
-
-/* line 216 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/forms.styl */
 input[type='email'].disabled,
 input[type='number'].disabled,
 input[type='password'].disabled,
@@ -917,8 +551,6 @@ textarea.disabled {
   cursor: not-allowed;
   background: #f5f5f5 !important;
 }
-
-/* line 87 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/forms.styl */
 input[type='email'].disabled:hover,
 input[type='number'].disabled:hover,
 input[type='password'].disabled:hover,
@@ -952,8 +584,6 @@ textarea.disabled:focus {
   border-color: #bbb;
   box-shadow: inset 0 1px 1px rgba(0,0,0,0.1);
 }
-
-/* line 218 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/forms.styl */
 input[type='email'].success,
 input[type='number'].success,
 input[type='password'].success,
@@ -972,8 +602,6 @@ textarea.success {
   color: #008000;
   border-color: #008000;
 }
-
-/* line 19 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/forms.styl */
 input[type='email'].success:focus,
 input[type='number'].success:focus,
 input[type='password'].success:focus,
@@ -993,8 +621,6 @@ textarea.success:focus {
   border: 1px solid #166a16;
   outline: none !important;
 }
-
-/* line 220 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/forms.styl */
 input[type='email'].warning,
 input[type='number'].warning,
 input[type='password'].warning,
@@ -1013,8 +639,6 @@ textarea.warning {
   color: #ff0;
   border-color: #ff0;
 }
-
-/* line 19 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/forms.styl */
 input[type='email'].warning:focus,
 input[type='number'].warning:focus,
 input[type='password'].warning:focus,
@@ -1034,8 +658,6 @@ textarea.warning:focus {
   border: 1px solid #d2d22d;
   outline: none !important;
 }
-
-/* line 222 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/forms.styl */
 input[type='email'].error,
 input[type='number'].error,
 input[type='password'].error,
@@ -1054,8 +676,6 @@ textarea.error {
   color: #f00;
   border-color: #f00;
 }
-
-/* line 19 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/forms.styl */
 input[type='email'].error:focus,
 input[type='number'].error:focus,
 input[type='password'].error:focus,
@@ -1075,12 +695,6 @@ textarea.error:focus {
   border: 1px solid #d22d2d;
   outline: none !important;
 }
-
-/* line 1 : /Users/Morgan/Desktop/development/javascript/react/react-playground/src/styles/base/forms.styl */
-
-/* line 87 : /Users/Morgan/Desktop/development/javascript/react/react-playground/src/styles/base/tables.styl */
-
-/* line 87 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/axis/tables.styl */
 table {
   max-width: 100%;
   border-collapse: collapse;
@@ -1092,8 +706,6 @@ table {
   *border-collapse: collapsed;
   border-radius: 4px;
 }
-
-/* line 16 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/axis/tables.styl */
 table th,
 table td {
   padding: 8px;
@@ -1102,88 +714,54 @@ table td {
   vertical-align: top;
   border-top: 1px solid #ddd;
 }
-
-/* line 23 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/axis/tables.styl */
 table th {
   font-weight: bold;
 }
-
-/* line 26 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/axis/tables.styl */
 table thead th {
   vertical-align: bottom;
 }
-
-/* line 29 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/axis/tables.styl */
 table thead:first-child tr th,
 table thead:first-child tr td {
   border-top: 0;
 }
-
-/* line 33 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/axis/tables.styl */
 table tbody + tbody {
   border-top: 2px solid #ddd;
 }
-
-/* line 49 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/axis/tables.styl */
 table th + th,
 table td + td,
 table th + td,
 table td + th {
   border-left: 1px solid #ddd;
 }
-
-/* line 52 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/axis/tables.styl */
 table thead:first-child tr:first-child th,
 table tbody:first-child tr:first-child th,
 table tbody:first-child tr:first-child td {
   border-top: 0;
 }
-
-/* line 57 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/axis/tables.styl */
 table thead:first-child tr:first-child th:first-child,
 table tbody:first-child tr:first-child td:first-child {
   border-radius: 4px 0 0 0;
 }
-
-/* line 61 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/axis/tables.styl */
 table thead:first-child tr:first-child th:last-child,
 table tbody:first-child tr:first-child td:last-child {
   border-radius: 0 4px 0 0;
 }
-
-/* line 65 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/axis/tables.styl */
 table thead:last-child tr:last-child th:first-child,
 table tbody:last-child tr:last-child td:first-child {
   border-radius: 0 0 0 4px;
 }
-
-/* line 69 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/axis/tables.styl */
 table thead:last-child tr:last-child th:last-child,
 table tbody:last-child tr:last-child td:last-child {
   border-radius: 0 0 4px 0;
 }
-
-/* line 74 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/axis/tables.styl */
 table tbody tr:nth-child(odd) td,
 table tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
-
-/* line 78 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/axis/tables.styl */
 table tbody tr:hover td,
 table tbody tr:hover th {
   background-color: #f5f5f5;
 }
-
-/* line 1 : /Users/Morgan/Desktop/development/javascript/react/react-playground/src/styles/base/tables.styl */
-
-/* line 2 : /Users/Morgan/Desktop/development/javascript/react/react-playground/src/styles/components/index.styl */
-
-/* line 2 : /Users/Morgan/Desktop/development/javascript/react/react-playground/src/styles/components/index.styl */
-
-/* line 170 : /Users/Morgan/Desktop/development/javascript/react/react-playground/src/styles/components/buttons.styl */
-
-/* line 170 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/buttons.styl */
 .btn-simple {
   transition: all .3s ease;
   font-size: 13px;
@@ -1200,21 +778,15 @@ table tbody tr:hover th {
   text-decoration: none;
   display: inline-block;
 }
-
-/* line 67 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/buttons.styl */
 .btn-simple:hover,
 .btn-simple:focus {
   background-color: #0000f2;
   color: #474747;
   color: rgba(71,71,71,0.95);
 }
-
-/* line 72 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/buttons.styl */
 .btn-simple:active {
   background-color: #0000e6;
 }
-
-/* line 173 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/buttons.styl */
 .btn {
   transition: all .3s ease;
   background: url("/imagesnoise.png") repeat, #0000e6 -webkit-gradient(linear, left top, left bottom, color-stop(0, #1a1aff), color-stop(1, #0000e6)) repeat-x;
@@ -1240,8 +812,6 @@ table tbody tr:hover th {
   text-decoration: none;
   display: inline-block;
 }
-
-/* line 129 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/buttons.styl */
 .btn:hover,
 .btn:focus {
   background-position: 0 -9.945px;
@@ -1249,15 +819,11 @@ table tbody tr:hover th {
   color: rgba(71,71,71,0.95);
   text-shadow: 1px 1px 1px rgba(255,255,255,0.5);
 }
-
-/* line 135 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/buttons.styl */
 .btn:active {
   box-shadow: inset 0 1px 5px rgba(0,0,191,0.6);
   text-shadow: 1px 1px 1px rgba(255,255,255,0.6);
   border-color: #0000d1;
 }
-
-/* line 176 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/buttons.styl */
 .btn.disabled,
 .btn-simple.disabled {
   background: #ccc;
@@ -1267,15 +833,11 @@ table tbody tr:hover th {
   cursor: default;
   -webkit-touch-callout: none;
 }
-
-/* line 153 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/buttons.styl */
 .btn.disabled:hover,
 .btn-simple.disabled:hover {
   background: #ccc;
   background-position: 0 0;
 }
-
-/* line 156 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/axis-css-adapter/node_modules/axis-css/axis/buttons.styl */
 .btn.disabled:active,
 .btn-simple.disabled:active {
   background: #ccc;
@@ -1283,14 +845,6 @@ table tbody tr:hover th {
   border-color: #b8b8b8;
   text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
 }
-
-/* line 1 : /Users/Morgan/Desktop/development/javascript/react/react-playground/src/styles/components/buttons.styl */
-
-/* line 1 : /Users/Morgan/Desktop/development/javascript/react/react-playground/src/styles/components/sprites.styl */
-
-/* line 10 : /Users/Morgan/Desktop/development/javascript/react/react-playground/src/styles/components/sprites.styl */
-
-/* line 10 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/spritesmith-stylus/spritesmith/spritesmith.styl */
 .sprite {
   display: inline-block;
   background: url("/images/sprite.png") no-repeat;
@@ -1298,8 +852,6 @@ table tbody tr:hover th {
   line-height: 0;
   vertical-align: bottom;
 }
-
-/* line 29 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/spritesmith-stylus/spritesmith/spritesmith.styl */
 .sprite--yeoman {
   background-position: 0px 0px;
   width: 103px;
@@ -1307,19 +859,11 @@ table tbody tr:hover th {
 /*Now loop through all the pseudo-selectors and see if there's a version of the sprite for that selector*/
 /*If there is, make a new rule for it*/
 }
-
-/* line 36 : /Users/Morgan/Desktop/development/javascript/react/react-playground/node_modules/spritesmith-stylus/spritesmith/spritesmith.styl */
 .sprite--yeoman:hover {
   background-position: 0px -89px;
   width: 103px;
   height: 89px;
 }
-
-/* line 3 : /Users/Morgan/Desktop/development/javascript/react/react-playground/src/styles/components/sprites.styl */
-
-/* line 3 : /Users/Morgan/Desktop/development/javascript/react/react-playground/src/styles/layout/index.styl */
-
-/* line 4 : /Users/Morgan/Desktop/development/javascript/react/react-playground/src/styles/layout/index.styl */
 main {
   max-width: 1000px;
 /*width 900px*/
